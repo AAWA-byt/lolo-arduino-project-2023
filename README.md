@@ -8,6 +8,7 @@ In this project, a circuit was developed with the help of which the speed and ac
 - Arduino UNO
 - HC-SR04 (Ultrasonic Sensor)
 - HW-125 (Memory Card Reader)
+- Button
 - Red/Green LED 
 - Resistors (330 Ohm)
 - Cabels
