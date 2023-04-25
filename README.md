@@ -9,6 +9,6 @@ In this project, a circuit was developed with the help of which the speed and ac
 - HC-SR04 (Ultrasonic Sensor)
 - HW-125 (Memory Card Reader)
 - Red/Green LED 
-- Resistors
+- Resistors (330 Ohm)
 - Cabels
 
