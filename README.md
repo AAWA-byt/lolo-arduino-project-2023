@@ -12,3 +12,7 @@ In this project, a circuit was developed with the help of which the speed and ac
 - Resistors (330 Ohm)
 - Cabels
 
+### :building_construction: Circuit Diagram
+Coming soon!
+
+
