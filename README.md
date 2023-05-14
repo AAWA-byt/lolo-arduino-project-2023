@@ -14,6 +14,5 @@ In this project, a circuit was developed with the help of which the speed and ac
 - Cabels
 
 ### :building_construction: Circuit Diagram
-Coming soon!
 
-
+![Circuit](https://github.com/AAWA-byt/lolo-arduino-project-2023/assets/76434239/bc944ceb-fa91-4413-8d1d-51e394106a4c)
