@@ -8,14 +8,14 @@ In this project, a circuit was developed with the help of which the speed and ac
 - Arduino UNO
 - HC-SR04 (Ultrasonic Sensor)
 - HW-125 (Memory Card Reader)
-- Button
-- Red/Green LED 
-- Resistors (330 Ohm)
-- Cabels
+- IR-Receiver
 
 ### :building_construction: Circuit Diagram
 
 ![Circuit](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/docs/Circuit.png)
+
+Generated with https://wokwi.com/.
+You can find a functional circuit simulation [here](https://wokwi.com/projects/364252601802716161).
 
 # :memo: License
 Copyright 2023 Aaron Wagner
