@@ -18,6 +18,9 @@ Generated with https://wokwi.com/.
 
 You can find a functional circuit simulation [here](https://wokwi.com/projects/364252601802716161).
 
+### :green_heart: Documentation
+[Here](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/docs/Aaron%20Wagner%20-%20Projektdokumentation%20Velocity%20Sensor%20-%20FP%20-%2012NP%20-%202023.pdf) you can find a documentation in german.
+
 # :memo: License
 Copyright 2023 Aaron Wagner
 
