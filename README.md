@@ -15,6 +15,7 @@ In this project, a circuit was developed with the help of which the speed and ac
 ![Circuit](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/docs/Circuit.png)
 
 Generated with https://wokwi.com/.
+
 You can find a functional circuit simulation [here](https://wokwi.com/projects/364252601802716161).
 
 # :memo: License
