@@ -2,17 +2,35 @@
 
 In this project, a circuit was developed with the help of which the speed and acceleration of a moving object can be measured.
 
-## :memo: Getting started
+## 📄 Getting started
 
 ### :wrench: Material
 - Arduino UNO
 - HC-SR04 (Ultrasonic Sensor)
 - HW-125 (Memory Card Reader)
-- Button
-- Red/Green LED 
-- Resistors (330 Ohm)
-- Cabels
+- IR-Receiver
 
 ### :building_construction: Circuit Diagram
 
-![Circuit](https://github.com/AAWA-byt/lolo-arduino-project-2023/assets/76434239/bc944ceb-fa91-4413-8d1d-51e394106a4c)
+![Circuit](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/docs/Circuit.png)
+
+Generated with https://wokwi.com/.
+
+You can find a functional circuit simulation [here](https://wokwi.com/projects/364252601802716161).
+
+### :green_heart: Documentation
+[Here](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/docs/Aaron%20Wagner%20-%20Projektdokumentation%20Velocity%20Sensor%20-%20FP%20-%2012NP%20-%202023.pdf) you can find a documentation in german.
+
+# :memo: License
+Copyright 2023 Aaron Wagner
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+See the [LICENSE.md](https://github.com/AAWA-byt/lolo-arduino-project-2023/blob/main/LICENSE.md) file for details.
+
+# :construction_worker: Author
+- [AAWA-byt](www.github.com/AAWA-byt) - Aaron Wagner
